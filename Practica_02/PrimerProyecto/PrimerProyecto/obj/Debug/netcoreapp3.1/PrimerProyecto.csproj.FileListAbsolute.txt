@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\Practica_02\PrimerProyecto\PrimerProyecto\bin\Debug\netcoreapp3.1\PrimerProyecto.exe
+C:\Users\danie\source\repos\Practica_02\PrimerProyecto\PrimerProyecto\bin\Debug\netcoreapp3.1\PrimerProyecto.deps.json
+C:\Users\danie\source\repos\Practica_02\PrimerProyecto\PrimerProyecto\bin\Debug\netcoreapp3.1\PrimerProyecto.runtimeconfig.json
+C:\Users\danie\source\repos\Practica_02\PrimerProyecto\PrimerProyecto\bin\Debug\netcoreapp3.1\PrimerProyecto.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Practica_02\PrimerProyecto\PrimerProyecto\bin\Debug\netcoreapp3.1\PrimerProyecto.dll
+C:\Users\danie\source\repos\Practica_02\PrimerProyecto\PrimerProyecto\bin\Debug\netcoreapp3.1\PrimerProyecto.pdb
+C:\Users\danie\source\repos\Practica_02\PrimerProyecto\PrimerProyecto\obj\Debug\netcoreapp3.1\PrimerProyecto.frmPrincipal.resources
+C:\Users\danie\source\repos\Practica_02\PrimerProyecto\PrimerProyecto\obj\Debug\netcoreapp3.1\PrimerProyecto.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\Practica_02\PrimerProyecto\PrimerProyecto\obj\Debug\netcoreapp3.1\PrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Practica_02\PrimerProyecto\PrimerProyecto\obj\Debug\netcoreapp3.1\PrimerProyecto.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Practica_02\PrimerProyecto\PrimerProyecto\obj\Debug\netcoreapp3.1\PrimerProyecto.AssemblyInfo.cs
+C:\Users\danie\source\repos\Practica_02\PrimerProyecto\PrimerProyecto\obj\Debug\netcoreapp3.1\PrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Practica_02\PrimerProyecto\PrimerProyecto\obj\Debug\netcoreapp3.1\PrimerProyecto.dll
+C:\Users\danie\source\repos\Practica_02\PrimerProyecto\PrimerProyecto\obj\Debug\netcoreapp3.1\PrimerProyecto.pdb
+C:\Users\danie\source\repos\Practica_02\PrimerProyecto\PrimerProyecto\obj\Debug\netcoreapp3.1\PrimerProyecto.genruntimeconfig.cache
